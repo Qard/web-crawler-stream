@@ -1,5 +1,7 @@
 # streaming web cralwer example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/web-crawler-stream.svg)](https://greenkeeper.io/)
+
 This is a really basic example of how you can use streams to efficiently crawl
 a the internet and map out links between pages. It has basic conditional link
 following based on any found URLs, and it keeps track of what URLs it has seen.
